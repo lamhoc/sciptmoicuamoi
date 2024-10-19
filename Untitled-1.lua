@@ -1,4 +1,3 @@
-local library = loastring(game:HttpGet(('https://raw.githubusercontent.com/lamhoc/scripttestne/bd1c633fec8e7155b7a2ae87cfe6b417ab8bb664/Untitled-1')))()
 local x = library:CreateWindow("Name")
 local b = w:CreateFolder("Name")
 b:DestroyGui()
